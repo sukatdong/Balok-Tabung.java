@@ -19,7 +19,7 @@ public class Balok extends varr implements MenghitungRuang {
     public void luaspermukaan() {
         double luasbalok;
         luasbalok = 2*(panjang * lebar + panjang * tinggi + lebar * tinggi) ;
-        System.out.println("Luas Persegi Panjang : " + luasbalok);
+        System.out.println("Luas Permukaan Balok : " + luasbalok);
         
     }
 
